@@ -516,7 +516,7 @@ def main():
     print(f"Using device: {device}")
     
     # File paths
-    input_file = '/Volumes/Fangorn/wetransfer_lidar-samples_2025-04-23_1749/05_grnd_sample/687400_5577000.laz'
+    input_file = '/Volumes/Fangorn/lidar_analysis/05_grnd_sample/687400_5577000.laz'
     output_file = 'ground_classified.laz'
     
     # Create datasets
